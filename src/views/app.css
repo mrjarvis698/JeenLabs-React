@@ -10,6 +10,7 @@
 .app-navbar-interactive {
   width: 100%;
   display: flex;
+  max-width: 1200px;
   align-items: center;
   padding-top: var(--dl-space-space-twounits);
   padding-left: var(--dl-space-space-threeunits);
