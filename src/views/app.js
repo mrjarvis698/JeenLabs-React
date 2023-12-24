@@ -13,8 +13,8 @@ const App = (props) => {
       </Helmet>
       <header data-thq="thq-navbar" className="app-navbar-interactive">
         <img
-          alt="logo"
-          src="https://presentation-website-assets.teleporthq.io/logos/logo.png"
+          src="/assets/jeenlabs-logo.svg"
+          alt="image"
           className="app-image"
         />
         <div data-thq="thq-navbar-nav" className="app-desktop-menu">
